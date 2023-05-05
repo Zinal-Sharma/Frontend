@@ -24,7 +24,7 @@ h4{
 }
 
 div{
-    background-color: #ffb89e;
+    background-color: #d0edd0;
     color: black;
     padding: 1em;
     text-align: center;
